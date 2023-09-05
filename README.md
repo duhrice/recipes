@@ -4,15 +4,15 @@ The website will demonstrate the following skills:
 1. Creating a basic website template  
     A. Document type declaration  
     B. Head  
-        &nbsp;a. Meta  
-        &nbsp;b. Title  
+        &ensp;a. Meta  
+        &ensp;b. Title  
     C. Body  
-        &nbsp;a. Paragraphs  
-        &nbsp;b. Lists  
-        &nbsp;c. Links  
-        &nbsp;d. Images  
+        &ensp;a. Paragraphs  
+        &ensp;b. Lists  
+        &ensp;c. Links  
+        &ensp;d. Images  
     D. Formatting  
 2. Creating multiple directable pages  
     A. Create a minimum of 3 recipes containing the following:  
-        &nbsp;a. Ingredients  
-        &nbsp;b. Steps  
+        &ensp;a. Ingredients  
+        &ensp;b. Steps  
